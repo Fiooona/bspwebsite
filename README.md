@@ -1,4 +1,5 @@
 an example use bootstrap
+use Masonry
 
 from a book Bootstrap Site Blueprints
 David Cochran
